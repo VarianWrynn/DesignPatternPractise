@@ -1,0 +1,10 @@
+D:\Lee\DesignPatternPractise\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.AssemblyInfoInputs.cache
+D:\Lee\DesignPatternPractise\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.AssemblyInfo.cs
+D:\Lee\DesignPatternPractise\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.exe
+D:\Lee\DesignPatternPractise\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.deps.json
+D:\Lee\DesignPatternPractise\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.runtimeconfig.json
+D:\Lee\DesignPatternPractise\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.runtimeconfig.dev.json
+D:\Lee\DesignPatternPractise\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.dll
+D:\Lee\DesignPatternPractise\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.pdb
+D:\Lee\DesignPatternPractise\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.dll
+D:\Lee\DesignPatternPractise\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.pdb
