@@ -4,6 +4,9 @@ using System.Text;
 
 namespace DesignPattern.FactoryPattern
 {
+    /// <summary>
+    /// 执行业务逻辑的人(数据库)
+    /// </summary>
     public interface IFactory
     {
         IConfession CreateConfession();

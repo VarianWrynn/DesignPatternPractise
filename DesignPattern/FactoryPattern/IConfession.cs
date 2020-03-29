@@ -4,6 +4,9 @@ using System.Text;
 
 namespace DesignPattern.FactoryPattern
 {
+    /// <summary>
+    /// 业务逻辑（表白的方法)
+    /// </summary>
     public interface IConfession
     {
         public virtual void AskForDinner()
@@ -26,6 +29,10 @@ namespace DesignPattern.FactoryPattern
            
         }
     }
+
+    /// <summary>
+    /// CEO实现业务逻辑（表白的方式）
+    /// </summary>
     public class CEOExpress:IConfession
     {
         public virtual void AskForDinner()
@@ -49,6 +56,9 @@ namespace DesignPattern.FactoryPattern
         }
     }
 
+    /// <summary>
+    /// 屌丝实现业务逻辑（表白的方式）
+    /// </summary>
     public class DiaosiExpress:IConfession
     {
         public virtual void AskForDinner()

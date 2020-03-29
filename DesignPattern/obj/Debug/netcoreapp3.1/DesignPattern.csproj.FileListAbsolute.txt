@@ -8,3 +8,4 @@ D:\Lee\DesignPatternPractise\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1
 D:\Lee\DesignPatternPractise\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.pdb
 D:\Lee\DesignPatternPractise\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.dll
 D:\Lee\DesignPatternPractise\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.pdb
+D:\Lee\DesignPatternPractise\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.csprojAssemblyReference.cache

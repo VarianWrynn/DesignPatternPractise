@@ -7,13 +7,10 @@ namespace DesignPattern
     {
         static void Main(string[] args)
         {
-            IFactory factory = new LeeWang();
-            IConfession confession = factory.CreateConfession();
-            confession.AskForDinner();
-            confession.GoForAWalk();
-            confession.HandInHand();
-            confession.Kiss();
 
+            FactoryModelClient.Invoke(new LeeWang());
+            Console.WriteLine("==============无情分割线===================");
+            FactoryModelClient.Invoke(new XuShuChun());
         }
     }
 }
